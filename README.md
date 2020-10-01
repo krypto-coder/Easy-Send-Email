@@ -1,5 +1,3 @@
-
-
 # Easy-Send-Email
 
 This script sends emails to a any number of person without any warning messages and limit. The mail send goes in inbox and not in spam.
@@ -51,4 +49,7 @@ $ git clone https://github.com/USERNAME/Easy-Send-Email
 
 5. Go to the directory where you've cloned the repo and starting making your contribution.
 
-
+## Tools Used
+1. PyQT
+2. SMTP
+3. SSL
